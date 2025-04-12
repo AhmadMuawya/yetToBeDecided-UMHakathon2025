@@ -3,9 +3,9 @@
 
 SadaqahTech is a transparent and Shariah-compliant donation platform that empowers users to calculate their Zakat, donate with ease, and track the real-world impact of their charity in real-time.
 
-## 🚀 Prototype
+## 🚀 Prototype and Demo
 [👉 Try SadaqahTech](https://www.figma.com/proto/uGqSY5FMs5s3ztQ5QlsSyi/UMHakathon?node-id=50-17394&p=f&t=XM9BcREebEnN3iyE-1&scaling=scale-down&content-scaling=fixed&page-id=15%3A17287) 
-
+[Slides](https://www.canva.com/design/DAGkbn01XeM/Gihz6246CLyMdgtgf0njog/edit?utm_content=DAGkbn01XeM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## 📱 Screens Preview
